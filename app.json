@@ -1,0 +1,9 @@
+{
+  "name": "express-ws-chat-sample",
+  "description": "express-ws chat sample.",
+  "keywords": [
+    "express",
+    "express-ws"
+  ],
+  "repository": "https://github.com/y-temp4/express-ws-chat-sample",
+}
