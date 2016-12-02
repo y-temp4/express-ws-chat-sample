@@ -1,5 +1,5 @@
 {
-  "name": "heroku-static-provider",
+  "name": "express-ws-chat-sample",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
