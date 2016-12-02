@@ -9,7 +9,7 @@ const basicAuth   = require('basic-auth-connect');
 const user = process.env.USER;
 const pass = process.env.PASS;
 
-const connects = [];
+let connects = [];
 
 app.set('port', process.env.PORT || 3000);
 
