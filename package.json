@@ -1,0 +1,13 @@
+{
+  "name": "heroku-static-provider",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "express-ws": "^2.0.0",
+    "morgan": "^1.7.0",
+    "serve-static": "^1.11.1"
+  }
+}
