@@ -5,5 +5,5 @@
     "express",
     "express-ws"
   ],
-  "repository": "https://github.com/y-temp4/express-ws-chat-sample",
+  "repository": "https://github.com/y-temp4/express-ws-chat-sample"
 }
